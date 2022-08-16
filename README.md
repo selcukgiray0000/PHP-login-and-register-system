@@ -9,3 +9,5 @@
 1- Download all files. (https://github.com/selcukgiray0000/PHP-login-and-register-system/archive/refs/heads/main.zip)<br>
 2- Import the user.sql file in MYSQL. <br>
 3- Make your database connections from the config.php file.
+
+I'm trying to improve myself in PHP. I would appreciate if you comment how can I improve my code and how can I make it better :)
